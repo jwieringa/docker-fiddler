@@ -2,7 +2,7 @@
 
   Run [Fiddler](http://www.telerik.com/fiddler) on a Mac in a container.
 
-The helpful links:
+Attribution and helpful links:
 
 + https://github.com/docker/docker/issues/8710
 + https://github.com/mono/docker/blob/master/3.12.0/Dockerfile
